@@ -1,3 +1,4 @@
 name = "neosvr-fetch-worlds"
 main = "src/index.ts"
 compatibility_date = "2023-04-06"
+compatibility_flags = [ "nodejs_compat" ]
